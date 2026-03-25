@@ -24,6 +24,7 @@ A command-line futures trading bot for placing **MARKET** and **LIMIT** orders o
 - [bot/orders.py](bot/orders.py) — order model and order execution methods
 - [bot/validators.py](bot/validators.py) — quantity/price validation
 - [bot/logging_config.py](bot/logging_config.py) — logging setup
+- [trades.log] - Log file for verification
 - [.env.example](.env.example) — required environment variables template
 
 ## Requirements
