@@ -1,0 +1,5 @@
+2026-03-25 23:50:23,456 - bot.orders - INFO - Placed BUY LIMIT order for 200.0 TRXUSDT at price 0.3
+2026-03-26 00:08:34,183 - bot.orders - INFO - Placed SELL MARKET order for 0.2 BNBUSDT at price MARKET
+2026-03-26 00:11:50,366 - bot.orders - ERROR - Order for 0.002 ETHUSDT at price MARKET failed
+2026-03-26 00:12:14,122 - bot.orders - INFO - Placed SELL MARKET order for 0.2 BNBUSDT at price MARKET
+2026-03-26 00:40:32,558 - bot.orders - INFO - Placed SELL MARKET order for 0.2 BNBUSDT at price MARKET
